@@ -1,5 +1,8 @@
 
-reate database testDB default character set utf8;
+Just testing to integrate mybatis, hdfs on Spring boot 2.x.
+- hdfs 2.7.1
+
+create database testDB default character set utf8;
 
 mysql> create user test@'%' identified by '123456@';
 Query OK, 0 rows affected (0.01 sec)
